@@ -34,7 +34,7 @@ $listadoEstudios = $_SESSION['listadoEstudios'];
 	<div class="col-md-3">Elige Ciclo: </div>
 	<div class="col-md-6">
 <select>
-	<option>Elege un estudio</option>
+	<option>Elige un estudio</option>
 	<?php
 	foreach ($listadoEstudios as $estudio){
 		?>
